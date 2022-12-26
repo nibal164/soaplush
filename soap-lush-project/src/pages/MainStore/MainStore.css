@@ -1,0 +1,14 @@
+.products-list {
+  padding: 0 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title-store {
+  margin-top: 0;
+  margin-bottom: 40px;
+  font-family: "Caramel", cursive;
+  font-size: 90px;
+  color: #6a3824;
+}

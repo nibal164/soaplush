@@ -1,0 +1,632 @@
+.main-image {
+  width: 100%;
+  height: 100vh;
+}
+
+.quote {
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  letter-spacing: 0.2rem;
+}
+
+@media only screen and (max-width: 418px) {
+  .main-image {
+    width: 105%;
+    height: 105vh;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  .main-image {
+    width: 110%;
+    height: 110vh;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .main-image {
+    width: 111%;
+    height: 115vh;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .main-image {
+    width: 143%;
+    height: 143vh;
+  }
+}
+
+.quote-text {
+  font-family: "Caramel", cursive;
+  letter-spacing: 0.3rem;
+  font-size: 80px;
+}
+
+@media only screen and (max-width: 970px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 78px;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 77px;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 76px;
+  }
+}
+
+@media only screen and (max-width: 940px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 75px;
+  }
+}
+
+@media only screen and (max-width: 930px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 74px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 19px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 920px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 73px;
+  }
+}
+
+@media only screen and (max-width: 910px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 72px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 71px;
+  }
+}
+
+@media only screen and (max-width: 890px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 70px;
+  }
+}
+
+@media only screen and (max-width: 880px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 69px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 18px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 870px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 68px;
+  }
+}
+
+@media only screen and (max-width: 860px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 67px;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 66px;
+  }
+}
+
+@media only screen and (max-width: 840px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 65px;
+  }
+}
+
+@media only screen and (max-width: 830px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 64px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 17px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 820px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 63px;
+  }
+}
+
+@media only screen and (max-width: 810px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 62px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 61px;
+  }
+}
+
+@media only screen and (max-width: 790px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 60px;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 59px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 16px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 770px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 58px;
+  }
+}
+@media only screen and (max-width: 760px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 57px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 56px;
+  }
+}
+
+@media only screen and (max-width: 740px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 55px;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 54px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 15px;
+    letter-spacing: 0.2rem;
+  }
+}
+@media only screen and (max-width: 720px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 53px;
+  }
+}
+
+@media only screen and (max-width: 710px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 52px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 51px;
+  }
+}
+
+@media only screen and (max-width: 690px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 50px;
+  }
+}
+@media only screen and (max-width: 680px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 49px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 14px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 48px;
+  }
+}
+
+@media only screen and (max-width: 660px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 47px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 46px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 45px;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 44px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 13px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 620px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 43px;
+  }
+}
+
+@media only screen and (max-width: 610px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 42px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 41px;
+  }
+}
+
+@media only screen and (max-width: 590px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 39px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 12px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 38px;
+  }
+}
+@media only screen and (max-width: 560px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 37px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 36px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 35px;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 34px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 11px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 33px;
+  }
+}
+
+@media only screen and (max-width: 510px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 32px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 31px;
+  }
+}
+
+@media only screen and (max-width: 490px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 29px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 10px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 28px;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 27px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 24px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 9px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 23px;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 22px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 21px;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 19px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 8px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 18px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 7px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 17px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 6px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 310px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 16px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 5px;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .quote-text {
+    font-family: "Caramel", cursive;
+    letter-spacing: 0.3rem;
+    font-size: 15px;
+  }
+  .quote {
+    font-family: "EB Garamond", serif;
+    font-size: 4px;
+    letter-spacing: 0.2rem;
+  }
+}

@@ -1,0 +1,28 @@
+.sub-category-container {
+  background-color: #f7d6ad;
+  display: flex;
+  justify-content: center;
+  padding: 0 10px 10px 10px;
+}
+
+.sub-category-item {
+  text-decoration: none;
+  color: black;
+}
+
+.sub-category-div:hover {
+  color: #7c3010;
+}
+
+.sub-category-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 30px 30px 120px;
+  font-family: "EB Garamond", serif;
+  font-size: 32px;
+  text-decoration: none;
+  color: black;
+  background-color: #f7d6ad;
+  margin: 0 150px;
+  border-radius: 10px;
+}
