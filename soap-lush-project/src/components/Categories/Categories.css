@@ -1,8 +1,7 @@
 .category-container {
-  padding-top: 120px;
+  padding: 120px 0 50px 0;
   display: flex;
   justify-content: center;
-  padding-bottom: 50px;
 }
 
 .category-name {
@@ -11,4 +10,289 @@
   padding: 0 15px 0 15px;
   text-decoration: none !important;
   color: black;
+}
+
+@media only screen and (max-width: 1200px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 29px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 115px 0 45px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 1150px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 28px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 110px 0 40px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 27px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 105px 0 35px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 1050px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 26px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 100px 0 30px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 25px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 25px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 24px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 23px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 15px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 22px;
+    padding: 0 14px 0 14px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 10px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 21px;
+    padding: 0 13px 0 13px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 5px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 20px;
+    padding: 0 12px 0 12px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 19px;
+    padding: 0 11px 0 11px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 95px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 18px;
+    padding: 0 10px 0 10px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 90px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 17px;
+    padding: 0 9px 0 9px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 85px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 15px;
+    padding: 0 8px 0 8px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 70px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 13px;
+    padding: 0 7px 0 7px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 65px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 12px;
+    padding: 0 6px 0 6px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 60px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 11px;
+    padding: 0 5px 0 5px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 55px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 10px;
+    padding: 0 4px 0 4px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 50px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .category-name {
+    font-family: "EB Garamond", "serif";
+    font-size: 9px;
+    padding: 0 3px 0 3px;
+    text-decoration: none !important;
+    color: black;
+  }
+  .category-container {
+    padding: 45px 0 0 0;
+    display: flex;
+    justify-content: center;
+  }
 }

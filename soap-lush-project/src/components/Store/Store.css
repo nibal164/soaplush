@@ -19,7 +19,7 @@
   display: grid;
   grid-auto-flow: column;
   scroll-behavior: auto;
-  gap: 1.2rem;
+  gap: 1rem;
   overflow-y: auto;
   overscroll-behavior-x: contain;
   scroll-snap-type: x mandatory;
@@ -43,3 +43,55 @@
   color: blue;
   text-align: center;
 } */
+@media only screen and (max-width: 1100px) {
+  .carrousel {
+    gap: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .carrousel {
+    gap: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .carrousel {
+    gap: 0.7rem;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .carrousel {
+    gap: 0.6rem;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .carrousel {
+    gap: 0.5rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .carrousel {
+    gap: 0.4rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .carrousel {
+    gap: 0.3rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .carrousel {
+    gap: 0.2rem;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .carrousel {
+    gap: 0.1rem;
+  }
+}

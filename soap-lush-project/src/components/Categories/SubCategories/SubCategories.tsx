@@ -14,6 +14,7 @@ function SubCategories() {
           <Link
             to={`/store/${category.id}/${SCategory.id}`}
             className="sub-category-item"
+            key={SCategory.id}
           >
             {index === 0 && (
               <div className="sub-category-div">{SCategory.name}</div>

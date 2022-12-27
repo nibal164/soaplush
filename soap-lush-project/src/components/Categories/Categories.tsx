@@ -8,7 +8,11 @@ function Categories() {
   return (
     <div className="category-container">
       {categories.map((category: any) => (
-        <Link to={`/store/${category.id}`} className="category-name">
+        <Link
+          to={`/store/${category.id}`}
+          className="category-name"
+          key={category.id}
+        >
           {category.name}
         </Link>
       ))}

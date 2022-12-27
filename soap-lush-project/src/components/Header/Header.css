@@ -84,6 +84,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 95px;
+  }
 }
 
 @media only screen and (max-width: 670px) {
@@ -97,6 +100,9 @@
     font-size: 23px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 95px;
   }
 }
 
@@ -112,6 +118,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 90px;
+  }
 }
 
 @media only screen and (max-width: 630px) {
@@ -125,6 +134,9 @@
     font-size: 21px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 85px;
   }
 }
 
@@ -140,6 +152,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 80px;
+  }
 }
 
 @media only screen and (max-width: 590px) {
@@ -153,6 +168,9 @@
     font-size: 19px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 75px;
   }
 }
 
@@ -168,6 +186,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 70px;
+  }
 }
 
 @media only screen and (max-width: 550px) {
@@ -181,6 +202,9 @@
     font-size: 17px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 65px;
   }
 }
 
@@ -196,6 +220,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 60px;
+  }
 }
 
 @media only screen and (max-width: 510px) {
@@ -209,6 +236,9 @@
     font-size: 15px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 55px;
   }
 }
 
@@ -224,6 +254,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 50px;
+  }
 }
 
 @media only screen and (max-width: 470px) {
@@ -237,6 +270,9 @@
     font-size: 13px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 45px;
   }
 }
 
@@ -252,6 +288,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 40px;
+  }
 }
 
 @media only screen and (max-width: 430px) {
@@ -265,6 +304,9 @@
     font-size: 11px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 35px;
   }
 }
 
@@ -280,6 +322,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 30px;
+  }
 }
 
 @media only screen and (max-width: 390px) {
@@ -294,6 +339,9 @@
     list-style: none;
     cursor: pointer;
   }
+  .header-container {
+    height: 25px;
+  }
 }
 
 @media only screen and (max-width: 370px) {
@@ -307,5 +355,42 @@
     font-size: 8px;
     list-style: none;
     cursor: pointer;
+  }
+  .header-container {
+    height: 20px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .header-logo {
+    width: 70px;
+    height: 35px;
+    cursor: pointer;
+  }
+  .header-menu-item {
+    margin: 15px;
+    font-size: 8px;
+    list-style: none;
+    cursor: pointer;
+  }
+  .header-container {
+    height: 15px;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .header-logo {
+    width: 70px;
+    height: 35px;
+    cursor: pointer;
+  }
+  .header-menu-item {
+    margin: 15px;
+    font-size: 8px;
+    list-style: none;
+    cursor: pointer;
+  }
+  .header-container {
+    height: 10px;
   }
 }
