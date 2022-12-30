@@ -9,34 +9,6 @@
   letter-spacing: 0.2rem;
 }
 
-@media only screen and (max-width: 418px) {
-  .main-image {
-    width: 105%;
-    height: 105vh;
-  }
-}
-
-@media only screen and (max-width: 410px) {
-  .main-image {
-    width: 110%;
-    height: 110vh;
-  }
-}
-
-@media only screen and (max-width: 360px) {
-  .main-image {
-    width: 111%;
-    height: 115vh;
-  }
-}
-
-@media only screen and (max-width: 280px) {
-  .main-image {
-    width: 143%;
-    height: 143vh;
-  }
-}
-
 .quote-text {
   font-family: "Caramel", cursive;
   letter-spacing: 0.3rem;

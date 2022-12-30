@@ -24,6 +24,7 @@
   overscroll-behavior-x: contain;
   scroll-snap-type: x mandatory;
   scrollbar-width: none;
+  margin-left: 5px;
 }
 
 .carrousel::-webkit-scrollbar {
@@ -46,52 +47,61 @@
 @media only screen and (max-width: 1100px) {
   .carrousel {
     gap: 0.9rem;
+    margin-left: 5px;
   }
 }
 
 @media only screen and (max-width: 1000px) {
   .carrousel {
     gap: 0.8rem;
+    margin-left: 5px;
   }
 }
 
 @media only screen and (max-width: 900px) {
   .carrousel {
     gap: 0.7rem;
+    margin-left: 5px;
   }
 }
 
 @media only screen and (max-width: 800px) {
   .carrousel {
     gap: 0.6rem;
+    margin-left: 5px;
   }
 }
 
 @media only screen and (max-width: 700px) {
   .carrousel {
     gap: 0.5rem;
+    margin-left: 5px;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .carrousel {
     gap: 0.4rem;
+    margin-left: 4px;
   }
 }
 
 @media only screen and (max-width: 500px) {
   .carrousel {
     gap: 0.3rem;
+    margin-left: 3px;
   }
 }
 
 @media only screen and (max-width: 400px) {
   .carrousel {
     gap: 0.2rem;
+    margin-left: 2px;
   }
 }
 @media only screen and (max-width: 300px) {
   .carrousel {
     gap: 0.1rem;
+    margin-left: 1px;
   }
 }

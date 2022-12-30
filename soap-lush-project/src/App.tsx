@@ -15,6 +15,10 @@ function App() {
           path="store/:categoryId/:subCategoryId"
           element={<MainStore />}
         />
+        <Route
+          path="store/:categoryId/:subCategoryId/:productId"
+          element={<MainStore />}
+        />
       </Routes>
     </BrowserRouter>
   );
